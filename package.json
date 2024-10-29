@@ -44,7 +44,7 @@
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
-    "@emotion/jest": "^11.9.1",
+    "@emotion/jest": "^11.13.0",
     "@swc/core": "^1.2.78",
     "@swc/jest": "^0.2.21",
     "@testing-library/jest-dom": "^5.14.1",
