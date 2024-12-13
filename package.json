@@ -94,7 +94,7 @@
     "postcss-normalize": "8.0.1",
     "postcss-preset-env": "6.7.0",
     "prettier": "^2.4.1",
-    "sass": "^1.38.2",
+    "sass": "^1.83.0",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.2.1",
     "swc-loader": "^0.1.14",
